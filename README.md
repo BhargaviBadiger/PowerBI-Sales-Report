@@ -10,3 +10,4 @@ The objective of this project is to look into a company which sells chocolates a
 4. MoM/YoY changes
 
 ## Dashboard
+![Sales Dashboard](https://github.com/BhargaviBadiger/PowerBI-Sales-Report/blob/d4e252a2cd1c24b0c25d209641f0617b169111b0/sales%20dashboard.png)
